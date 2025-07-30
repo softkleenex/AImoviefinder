@@ -140,20 +140,20 @@ chmod +x deploy.sh
 프로젝트 링크: [https://github.com/softkleenex/AImoviefinder](https://github.com/softkleenec/AImoviefinder)
 
 
-# 아래는 웹사이트 실행 예시입니다
+### 아래는 웹사이트 실행 예시입니다
 mainpage
 
 ![메인페이지](img/mainpage.png)
 
-# 아래는 크리스토퍼 놀란 감독의 작품 서칭 결과입니다
+### 아래는 크리스토퍼 놀란 감독의 작품 서칭 결과입니다
 
 ![크리스토퍼 놀란 검색결과](img/Christmas_Nolan.png)
 
-# 아래는 크리스토퍼 놀란 감독의 작품 서칭 결과에서, gpt와 mcp간의 피드백입니다
+### 아래는 크리스토퍼 놀란 감독의 작품 서칭 결과에서, gpt와 mcp간의 피드백입니다
 
 ![MCP GPT 피드백](img/mcp_gpt_feedback.png)
 
-# 아래는 Tavily를 통한 웹 서칭 결과입니다.
+### 아래는 Tavily를 통한 웹 서칭 결과입니다.
 
 tavily의 작동방식은 TAVILY_SEARCH_GUIDE.md 에 저장되어있습니다.
 
