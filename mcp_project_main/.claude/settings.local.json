@@ -1,0 +1,29 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(cp:*)",
+      "Bash(pip install:*)",
+      "Bash(streamlit run:*)",
+      "Bash(streamlit config set:*)",
+      "Bash(chmod:*)",
+      "Bash(gcloud config set:*)",
+      "Bash(./deploy.sh)",
+      "Bash(gcloud run services list:*)",
+      "Bash(gcloud run services describe:*)",
+      "Bash(curl:*)",
+      "Bash(docker build:*)",
+      "Bash(docker push:*)",
+      "Bash(gcloud auth:*)",
+      "Bash(gcloud run deploy:*)",
+      "Bash(pkill:*)",
+      "Bash(gcloud builds:*)",
+      "Bash(gcloud logs read:*)",
+      "Bash(gcloud run services logs read:*)",
+      "Bash(grep:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)"
+    ],
+    "deny": []
+  }
+}

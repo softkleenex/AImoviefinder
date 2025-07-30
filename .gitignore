@@ -1,0 +1,126 @@
+# 환경변수 파일 (민감한 API 키 포함) - 최우선 제외!
+.env
+.env.*
+*.env
+.env.local
+.env.production
+.env.staging
+.env.development
+
+# Python 관련
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDE 및 에디터
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 가상환경
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# 로그 파일
+*.log
+logs/
+
+# 데이터베이스
+*.db
+*.sqlite
+*.sqlite3
+
+# 임시 파일
+*.tmp
+*.temp
+.tmp/
+.temp/
+
+# 압축 파일 (배포용이 아닌 경우)
+*.tar.gz
+*.zip
+*.rar
+
+# 프로젝트 압축 파일
+mcp_project.tar.gz
+
+# Google Cloud 관련
+.gcloudignore
+service-account-key.json
+*-service-account-*.json
+
+# Docker 관련
+.dockerignore
+
+# 테스트 관련
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.pytest_cache/
+cover/
+
+# 민감한 설정 파일
+config.json
+secrets.json
+credentials.json
+private_key.json
+
+# OS 생성 파일
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 백업 파일
+*.bak
+*.backup
+
+# Node.js (만약 사용한다면)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 기타 민감한 파일
+*.pem
+*.key
+*.crt
+*.cert
