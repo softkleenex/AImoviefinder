@@ -141,6 +141,10 @@ chmod +x deploy.sh
 
 
 ### 아래는 웹사이트 실행 예시입니다
+
+서비스 url:
+https://movie-agent-real-mcp-904447394903.us-central1.run.app
+
 mainpage
 
 ![메인페이지](img/mainpage.png)
