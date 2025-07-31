@@ -164,4 +164,4 @@ tavily의 작동방식은 TAVILY_SEARCH_GUIDE.md 에 저장되어있습니다.
 mcp의 결과가 3개 이하일때 웹검색을 실행하므로, 
 크리스토퍼 놀란 대신 크리스마스 놀란 감독으로 검색 시도하였습니다.
 
-![크리스마스 놀란 검색결과](img/Christmas_Nolan.png)# Force sync
+![크리스마스 놀란 검색결과](img/Christmas_Nolan.png)
