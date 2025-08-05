@@ -1,3 +1,7 @@
+# 서비스 url: [https://movie-agent-real-mcp-904447394903.us-central1.run.app](https://movie-agent-real-mcp-904447394903.us-central1.run.app)
+
+
+
 # 🎬 AI Movie Finder
 
 영화 추론 에이전트를 통해 단편적인 정보만으로도 원하는 영화를 찾을 수 있습니다. MCP(Model Context Protocol) 기반으로 구축된 지능형 영화 검색 시스템입니다.
@@ -141,8 +145,6 @@ chmod +x deploy.sh
 
 
 ### 아래는 웹사이트 실행 예시입니다
-
-서비스 url: [https://movie-agent-real-mcp-904447394903.us-central1.run.app](https://movie-agent-real-mcp-904447394903.us-central1.run.app)
 
 mainpage
 
