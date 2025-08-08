@@ -2,7 +2,7 @@
 [https://movie-agent-real-mcp-904447394903.us-central1.run.app](https://movie-agent-real-mcp-904447394903.us-central1.run.app)
 
 
-api 자원 소진으로 인하여 작동이 읜도되로 되지 않을 수 있습니다.
+api 자원 소진으로 인하여 정상 작동하지 않을 수 있습니다.
 본인의 api 키로 직접 테스트 해 보세요!
 
 # 🎬 AI Movie Finder
